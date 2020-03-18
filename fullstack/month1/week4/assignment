@@ -6,3 +6,8 @@ instantiation
 Name of Product: The name of product goes here
 Quantity: the quantity goes here
 Price: the price goes here
+
+4. Add a method to the class that displays a form with the following fields
+Name of Product, Quantity and Price and a submit button
+
+5. Apply some CSS to make your work neat and nice
