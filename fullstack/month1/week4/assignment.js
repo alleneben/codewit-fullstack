@@ -3,11 +3,11 @@ product entry form to be used to capture product data. The form is supposed to
 capture the name, quantity and unit price of the product and store it into and
 a products array.
 
-1. Create a javascript class, Product
-2. The class should display the name of the supermarket and a form with the following 
+1. Create a javascript Class, Product
+2. The Class should display the name of the supermarket and a form with the following 
 fields Name of Product, Quantity and Price and a submit button during
 instantiation
-3. Create a method in the class which accepts the name, quantity and price of 
+3. Create a method in the Class which accepts the name, quantity and price of 
 the product
 
 4. Create another method which accepts the result from 3 and append it to the product
