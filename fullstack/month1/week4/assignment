@@ -1,13 +1,18 @@
+You are a front end developer for a supermarket and your task is to create a
+product entry form to be used to capture product data. The form is supposed to 
+capture the name, quantity and unit price of the product and store it into and
+a products array.
+
 1. Create a javascript class, Product
-2. The class should set the name of the product, the quantity and the unit price during
+2. The class should display the name of the supermarket and a form with the following 
+fields Name of Product, Quantity and Price and a submit button during
 instantiation
-3. Create a method in the class which when called will display the ff
+3. Create a method in the class which accepts the name, quantity and price of 
+the product
 
-Name of Product: The name of product goes here
-Quantity: the quantity goes here
-Price: the price goes here
+4. Create another method which accepts the result from 3 and append it to the product
+array when the submit button is clicked
 
-4. Add a method to the class that displays a form with the following fields
-Name of Product, Quantity and Price and a submit button
+5. Display the array of products on thesame page under the form
 
-5. Apply some CSS to make your work neat and nice
+6. Apply some CSS to make your work neat and nice
