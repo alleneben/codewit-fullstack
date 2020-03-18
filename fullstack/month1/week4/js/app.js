@@ -2,9 +2,6 @@ class App {
     
     constructor(){
         console.log('this is App class');
-        
-        
-
     }
 
 

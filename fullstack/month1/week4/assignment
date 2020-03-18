@@ -1,0 +1,8 @@
+1. Create a javascript class, Product
+2. The class should set the name of the product, the quantity and the unit price during
+instantiation
+3. Create a method in the class which when called will display the ff
+
+Name of Product: The name of product goes here
+Quantity: the quantity goes here
+Price: the price goes here
